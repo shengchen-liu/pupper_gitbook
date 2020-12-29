@@ -1,0 +1,11 @@
+{
+	"title": "Pupper: A Quadruped robot",
+    "description": "A collection of documents for Pupper robot",
+    "author": "Shengchen Liu",
+	"links": {
+	        "sidebar": {
+	            "Home": "https://shengchen-liu.github.io/"
+	        }
+	    },
+    "plugins": ["mathjax"]
+}
